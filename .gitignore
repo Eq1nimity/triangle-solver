@@ -1,4 +1,8 @@
 # Byte-compiled / optimized / DLL files
+# Pycharm
+*.xml
+*.iml
+
 __pycache__/
 *.py[cod]
 *$py.class
